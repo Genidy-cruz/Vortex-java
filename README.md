@@ -4,7 +4,7 @@ API REST de uma loja de jogos, desenvolvida em equipe com Java e Spring Boot.
 
 ## Sobre
 
-Backend para gerenciamento de clientes, jogos, cartões, lojas e desenvolvedoras, seguindo arquitetura em camadas (Controller, Model, Repository).
+Backend para gerenciamento de clientes, jogos, cartões, lojas e desenvolvedoras, favoritos seguindo arquitetura em camadas (Controller, Model, Repository).
 
 ## Tecnologias
 
